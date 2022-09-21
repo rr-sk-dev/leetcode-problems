@@ -1,4 +1,5 @@
-
+// TODO: Validate the given inputs.
+// TODO: Validate if malloc succeded.
 
 /**
  * Note: The returned array must be malloced, assume caller calls free().
